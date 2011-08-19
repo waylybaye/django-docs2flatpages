@@ -1,1 +1,4 @@
 *.pyc
+build
+dist
+django_docs2flatpages.egg-info/
