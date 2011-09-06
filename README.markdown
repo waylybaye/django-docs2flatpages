@@ -11,3 +11,5 @@ INSTALL
 1. `pip install django-docs2flatpages`
 2. Add `docs_to_flatpages` to your `INSTALLED_APPS`
 3. run `./manage.py help docs_to_flatpages` to get helps
+
+**WARNING** this package not finished yet.
